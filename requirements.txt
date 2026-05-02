@@ -1,0 +1,20 @@
+# Google ADK & Gemini
+google-adk>=1.0.0
+google-genai>=1.0.0
+
+# Video editing
+moviepy>=2.0.0
+ffmpeg-python>=0.2.0
+pycaps>=0.3.0
+
+# Numerical / ML
+numpy>=1.26.0
+scipy>=1.13.0
+sklearn-compat>=0.1
+
+# Utilities
+python-dotenv>=1.0.0
+loguru>=0.7.0
+tqdm>=4.66.0
+requests>=2.31.0
+pydantic>=2.5.0
